@@ -45,8 +45,8 @@ dress-analyzer/
 ### 1. Clone the Repository & Navigate to Directory
 
 ```bash
-git clone https://github.com/Tareq905/cloth-image-classifier-color-detector.git
-cd cloth-image-classifier-color-detector
+git clone https://github.com/Tareq905/cloth-image-color-detector.git
+cd cloth-image-color-detector
 ```
 
 *(Or navigate to `dress-analyzer` if working in a monorepo workspace).*
