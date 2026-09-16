@@ -1,4 +1,4 @@
-# Dress Analyzer API (Cloth Image Classifier & Color Detector)
+# Cloth Image Classifier & Color Detector
 
 A FastAPI microservice that analyzes garment images using multimodal Large Language Models (LLM Vision) to extract structured fashion attributes such as garment type, gender classification, colors, patterns, and brand identification.
 
